@@ -7,7 +7,8 @@ tags: [Sorcerer, Wizard, Evocation, Concentration, Fire Damage, Area of Effect ]
 ---
 
 Sorcerer, Wizard
-3rd-level evocation (fire)
+
+_3rd-level Evocation_
 
 **Casting:** Action (V, S, M [pinch of guano])
 
