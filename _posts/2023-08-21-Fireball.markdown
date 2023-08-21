@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Fireball"
+date:   2023-08-21
+sources: [PHB.211, SRD.114]
+tags: [artificer, sorcerer, wizard, cantrip, action, evocation
+---
+
+Sorcerer, Wizard
+3-level evocation (fire)
+
+Casting: 1 action (V,S,M) 
+Range: 150 feet
+Area of Effect: 20 foot sphere
+Save: Dex or half damage (6d6 fire)
+Duration: Instantaneous
+
+A ball of fire flies towards a point you designate, dealing 6d6 fire damage. All flammable objects in the area are ignited. 
+
+Empower (+1): Increase damage by 1d6. 
+
+Empower (7th): You are now able to delay the blast 
