@@ -3,7 +3,7 @@ layout: post
 title:  "Fireball"
 date:   2023-08-21
 sources: [PHB.211, SRD.114]
-tags: [artificer, sorcerer, wizard, cantrip, action, evocation
+tags: [artificer, sorcerer, wizard, cantrip, action, evocation]
 ---
 
 Sorcerer, Wizard
