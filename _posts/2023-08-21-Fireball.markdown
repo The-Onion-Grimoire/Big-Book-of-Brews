@@ -2,21 +2,26 @@
 layout: post
 title:  "Fireball"
 date:   2023-08-21
-sources: [PHB.211, SRD.114]
-tags: [artificer, sorcerer, wizard, cantrip, action, evocation]
+sources: [Homebrew Variant]
+tags: [Sorcerer, Wizard, Evocation, Concentration, Fire, Area of Effect ]
 ---
 
 Sorcerer, Wizard
-3-level evocation (fire)
+3rd-level evocation (fire)
 
-Casting: 1 action (V,S,M) 
-Range: 150 feet
-Area of Effect: 20 foot sphere
-Save: Dex or half damage (6d6 fire)
-Duration: Instantaneous
+**Casting:** Action (V, S, M [pinch of guano])
+
+**Range:** 150 feet 
+
+**Area of Effect:** 20 ft sphere
+
+**Save:** DEX or half damage (6d6 fire)
+
+**Duration:** Instant
 
 A ball of fire flies towards a point you designate, dealing 6d6 fire damage. All flammable objects in the area are ignited. 
 
-Empower (+1): Increase damage by 1d6. 
+**Heightened (+1):** Increase the damage by 2d6. 
 
-Empower (7th): You are now able to delay the blast 
+**Heightened (7th):**  You can delay the detonation of the fireball up to 1 minute. You must concentrate on the spell to delay it. Each turn the blast is delayed, the damage increases by 1d6. 
+
