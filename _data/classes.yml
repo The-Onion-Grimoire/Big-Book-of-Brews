@@ -65,6 +65,8 @@
      subtag: spores
    - name: Circle of Wildfire
      subtag: wildfire
+- name: Grimwalker
+  tag: grimwalker
 - name: Paladin
   tag: paladin
   subclasses:
