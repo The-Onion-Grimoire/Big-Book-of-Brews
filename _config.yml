@@ -26,12 +26,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   along with edited or copied spells from
   numerous published homebrew sources.
 
-These sources include
-Kobold Press's Deep Magic series,
-Grim Hollow Player's Guide,
-and the Necromancer Games's Book of Lost Spells.
-Each spell present on the website i
-credited to its source.
+  These sources include
+  Kobold Press's Deep Magic series,
+  Grim Hollow Player's Guide,
+  and the Necromancer Games's Book of Lost Spells.
+  Each spell present on the website i
+  credited to its source.
 baseurl: "Big-Book-of-Brews" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
