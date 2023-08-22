@@ -22,7 +22,7 @@ _3rd-level Evocation_
 
 A ball of fire flies towards a point you designate, dealing 6d6 fire damage. All flammable objects in the area are ignited. 
 
-**Empowered (+1):** Increase the damage by 2d6. 
+**Empower (+1):** Increase the damage by 2d6. 
 
-**Empowered (7th):**  You can delay the detonation of the fireball up to 1 minute. You must concentrate on the spell to delay it. Each turn the blast is delayed, the damage increases by 1d6. You can choose to detonate the fireball at the start of each one of your turns. 
+**Empower (7th):**  You can delay the detonation of the fireball up to 1 minute. You must concentrate on the spell to delay it. Each turn the blast is delayed, the damage increases by 1d6. You can choose to detonate the fireball at the start of each one of your turns. 
 
