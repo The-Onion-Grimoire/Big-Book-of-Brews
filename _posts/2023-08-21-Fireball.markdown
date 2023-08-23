@@ -20,7 +20,7 @@ _3rd-level Evocation_
 
 **Duration:** Instant
 
-A ball of fire flies towards a point you designate, dealing 6d6 fire damage. All flammable objects in the area are ignited. 
+A ball of fire flies towards a point you designate, dealing 6d6 fire damage. All flammable objects in the area are ignited. Creatures that fail the save by 5 or more gain Burning (1d10).
 
 **Empower (+1):** Increase the damage by 2d6. 
 
