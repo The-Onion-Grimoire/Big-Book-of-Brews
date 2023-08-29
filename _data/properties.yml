@@ -15,8 +15,7 @@
   help: This spell uses your Reaction.
 - name: Long Casting Time
   tag: long
-  help: This spell has a casting time greater than one round.
-  
+  help: This spell has a casting time greater than one round.  
 - name: Area of Effect
   tag: aoe
   help: This spell can effect multiple targets.
@@ -31,8 +30,7 @@
   help: This spell restricts the movement and or action count of the target.
 - name: Single Target
   tag: single
-  help: This spell targets only one creature.
-  
+  help: This spell targets only one creature. 
 - name: Acid
   tag: acid
   help: This spell deals acid damage.
