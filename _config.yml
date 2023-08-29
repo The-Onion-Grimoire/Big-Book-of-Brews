@@ -1,7 +1,7 @@
 # Site settings
 title: "Big Book of Brews"
 description:
-  "This website is a collection of homebrew spells.
+  `This website is a collection of homebrew spells.
   The collection includes original homebrew material,
   along with edited or copied spells from
   numerous published homebrew sources.
@@ -11,7 +11,7 @@ description:
   Grim Hollow Player's Guide,
   and the Necromancer Games's Book of Lost Spells.
   Each spell present on the website i
-  credited to its source."
+  credited to its source.`
 baseurl: "Big-Book-of-Brews" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 permalink: "/:categories/:title"
