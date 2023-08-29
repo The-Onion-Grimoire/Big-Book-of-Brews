@@ -4,9 +4,7 @@ author: "Saph, Traneptora"
 description:
   "A searchable D&D 5e spell list, sorted by class and level."
 baseurl: "Big-Book-of-Brews" # the subpath of your site, e.g. /blog/
-url: "https://grimoire.thebombzen.xyz" # the base hostname & protocol for your site
-source-url: "https://github.com/Traneptora/grimoire/"
-permalink: "/:categories/:title"
+url: "" # the base hostname & protocol for your site
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
 # Build settings
