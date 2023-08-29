@@ -1,9 +1,9 @@
 # Site settings
-title: "The Grimoire"
+title: "Big Book of Brews"
 author: "Saph, Traneptora"
 description:
   "A searchable D&D 5e spell list, sorted by class and level."
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "Big-Book-of-Brews" # the subpath of your site, e.g. /blog/
 url: "https://grimoire.thebombzen.xyz" # the base hostname & protocol for your site
 source-url: "https://github.com/Traneptora/grimoire/"
 permalink: "/:categories/:title"
