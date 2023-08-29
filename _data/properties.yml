@@ -67,6 +67,6 @@
 - name: Slashing
   tag: slashing
   help: This spell deals slashing damage.
-  - name: Thunder
+- name: Thunder
   tag: thunder
   help: This spell deals thunder damage. This is a sonic damage type.
