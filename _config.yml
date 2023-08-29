@@ -15,7 +15,7 @@ description:
   credited to its source."
   
 baseurl: "Big-Book-of-Brews" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://the-onion-grimoire.github.io/Big-Book-of-Brews" # the base hostname & protocol for your site
 permalink: "/:categories/:title"
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
