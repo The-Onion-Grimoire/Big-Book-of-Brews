@@ -15,9 +15,9 @@ layout: default
       {% for tag in page.tags %}
       <dd>
           {% if tag == 'cantrip' or tag contains 'level' %}
-            <a href="{{site.baseurl}}/#{{tag}}">{{tag}}</a>
+            <a href="#{{tag}}">{{tag}}</a>
           {% else %}
-            <a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a>
+            <a href="tags/{{tag}}.html">{{tag}}</a>
           {% endif %}
       </dd>
       {% endfor %}
@@ -28,7 +28,7 @@ layout: default
         {% for sub in page.subtags %}
         <dd>
           {% for item in sub %}
-          <a href="{{site.baseurl}}/tags/{{item[0]}}-{{item[1]}}.html">{{item[0]}} ({{item[1]}})</a>
+          <a href="tags/{{item[0]}}-{{item[1]}}.html">{{item[0]}} ({{item[1]}})</a>
           {% endfor %}
         </dd>
         {% endfor %}
