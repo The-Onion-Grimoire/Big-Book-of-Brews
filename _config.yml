@@ -6,7 +6,7 @@ description:
 baseurl: "Big-Book-of-Brews" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 source-url: "https://github.com/Traneptora/grimoire/"
-permalink: "/tags/:tag/"
+permalink: "/:categories/:title"
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
 # Build settings
